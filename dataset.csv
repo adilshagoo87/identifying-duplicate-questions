@@ -1,0 +1,2 @@
+id,qid1,qid2,question1,question2,len q1,len q2,len_diff,fcw,samewords,diffwords,fuzzywuzzy,sortedfuzzy,word_shear,jakard,levenshtein,cs,eq,pwm,pwl,mink,canb
+0,1,2,dfzsfss,dsfsf,7,5,2,0,0,1,0.67,0.67,0.5,0.0,3,0.0,1.41,2.0,0.0,1.0,2.0
